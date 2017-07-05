@@ -1,0 +1,17 @@
+{
+  "product": {
+    "variant_id": 1223334444,
+    "description": "Cool new Movie",
+    "availability": {
+      "FC1": {
+        "quantity": 50,
+        "queued_for_delivery": 0,
+      },
+      "FC2": {
+        "quantity": 2,
+        "queued_for_delivery": 0,
+      },
+      "release_countdown": 10,
+    }
+  }
+}
