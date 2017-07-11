@@ -11,7 +11,7 @@
         "quantity": 2,
         "queued_for_delivery": 0,
       },
-      "release_countdown": 10,
+      "street_date": "10",
     }
   }
 }
